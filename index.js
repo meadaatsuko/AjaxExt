@@ -1,1 +1,1 @@
-alert("Hello World!!");
+localHandler({"name":"tom"});
